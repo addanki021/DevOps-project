@@ -6,3 +6,5 @@ stages {
              echo 'Building'
             }
         }
+   }
+}
